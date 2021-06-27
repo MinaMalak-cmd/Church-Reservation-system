@@ -10,10 +10,10 @@ namespace coreWebAPI.Data.IRepositories
     {
          Task<List<T>> GetAll();
          Task<T> GetById(int id);
-         void Update(T entity);
+         Task Update(T entity);
          Task<T> Post(T entity);
         //Task<HttpResponseMessage> Delete(int id);
-        void Delete(int id);
+        Task Delete(int id);
         //Task<bool> IsExisted(int id);
     }
 }

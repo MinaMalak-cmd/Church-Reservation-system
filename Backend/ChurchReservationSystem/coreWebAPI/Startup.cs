@@ -1,3 +1,5 @@
+using coreWebAPI.Data.IMass;
+using coreWebAPI.Data.IPeople;
 using coreWebAPI.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
@@ -34,6 +36,8 @@ namespace coreWebAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "coreWebAPI", Version = "v1" });
             });
+            services.AddScoped<IPeople, PeopleRepository>();
+            services.AddScoped<IMass, MassRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

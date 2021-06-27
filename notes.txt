@@ -1,0 +1,93 @@
+*Phile demo:
+http://philo-dem.com/booking/?fbclid=IwAR35hFTORjG3D8exVIEllUjG9byQLnOhIcX8EEj1yHL5P1eRpWxXIugEXsQ
+*Tutorial:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+*Repository design pattern:
+https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/
+https://code-maze.com/net-core-web-development-part4/#:~:text=What%20is%20a%20Repository%20pattern,our%20data%20from%20the%20database.
+*Two medium articles about repository pattern:
+https://medium.com/net-core/repository-pattern-implementation-in-asp-net-core-21e01c6664d7
+https://medium.com/net-core/how-to-build-a-restful-api-with-asp-net-core-fb7dd8d3e5e3
+*About Connection Strings: 
+https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings
+https://blog.elmah.io/the-ultimate-guide-to-connection-strings-in-web-config/
+*Code First Approach:
+https://code-maze.com/net-core-web-api-ef-core-code-first/
+>>Search for : Guid, DataAnnotations, IQueryable, Task and multi-threading, 
+add scoped &add transient & add Singleton, interface& abstractClass
+-----------------------------------------------------------------------------
+*Find by condition method:
+public IQueryable<T> FindByCondition(Expression<Func<T, bool>> expression)
+        {
+            return this.RepositoryContext.Set<T>().Where(expression).AsNoTracking();
+        }
+--------------------------------------------------------------------
+*Last time:
+*I have created two entities in Models folder
+*I have created repository folder for repository design pattern
+*What's next
+1)Follow this tutorial
+https://www.entityframeworktutorial.net/efcore/install-entity-framework-core.aspx
+to install EF core and update DB with changes
+*Test DB created
+*For connectionString in case of windows authentication
+Trusted_Connection=True;
+Integrated Security=true  
+✔✔✔✔✔✔
+2)Follow above tutorial and create Interfaces needed, implement repository design pattern
+Some helpful links:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+To Do:
+*Data Annotations
+*ID updated with delete some data
+*
+1)Implement mass Repos and Class ✔✔
+2)Add method in MassController if MaxCapacity == no of attendees ✔✔
+3)Routing for isAdmin
+4)How to get number of currentSeats
+5)Solve post error, and test of its endpoints, as well as finish second controller
+4)StoredProcedure
+5)CORS origin, Freeze Preflight request
+3)Finish the whole backend
+4)Start in front -end
+To do next:
+1)Update current seats by adding or subtracting
+2)StoredProcedure
+3)CORS origin, Freeze Preflight request
+---------------------------------------------------------
+*Migrations:
+Add-Migration EFCoreCodeFirstSample.Models.ReservationContext
+update-database
+--------------------------------------------------
+*After you finsih put it on github and cv, with change names of mass -> event and for DB as well
+*services.AddScoped<EfCoreStarRespository>();
+--------------------------------------------------
+In future:
+*put method has an object and id
+*Hashing for password
+*Add feature for user can reserve for multiple people
+*Handle dbconcurrency exception
+*Add data annotations, and handle update conditions
+Content-Type: application/json
+Content-Length: 126
+RequestBody:
+{
+  "id": 0,
+  "name": "string",
+  "registerationDate": "2021-06-26T14:01:52.851Z",
+  "reservationDate": "2021-06-26T14:01:52.851Z",
+  "telephoneNumber": "string",
+  "massId": 0,
+  "mass": {
+    "massId": 0,
+    "name": "string",
+    "maxCapacity": 0,
+    "currentSeats": 0,
+    "date": "2021-06-26T14:01:52.851Z",
+    "duration": {},
+    "people": [
+      null
+    ]
+  }
+}
+Accept header is necessary too
