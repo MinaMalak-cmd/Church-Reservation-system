@@ -117,3 +117,29 @@ or
 *In asp.net core I installed newtonsoft package
 and in startup.cs in confgiureServices:
             services.AddControllers().AddNewtonsoftJson(); ;
+--------------------------------------------------
+Schema for TimeSpan:
+ticks	integer($int64)
+readOnly: true
+days	integer($int32)
+readOnly: true
+hours	integer($int32)
+readOnly: true
+milliseconds	integer($int32)
+readOnly: true
+minutes	integer($int32)
+readOnly: true
+seconds	integer($int32)
+readOnly: true
+totalDays	number($double)
+readOnly: true
+totalHours	number($double)
+readOnly: true
+totalMilliseconds	number($double)
+readOnly: true
+totalMinutes	number($double)
+readOnly: true
+totalSeconds	number($double)
+readOnly: true
+--------------------------------------------------
+*you have to send id in update request of People or Mass
