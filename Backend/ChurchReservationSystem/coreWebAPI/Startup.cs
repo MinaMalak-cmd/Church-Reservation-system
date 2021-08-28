@@ -31,11 +31,12 @@ namespace coreWebAPI
         {
             services.AddDbContext<ReservationContext>(opts => opts.UseSqlServer(Configuration["ConnectionString:ReservationDB"]));
 
-            services.AddControllers();
+            services.AddControllers().AddNewtonsoftJson(); ;
             services.AddSwaggerGen(c =>
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "coreWebAPI", Version = "v1" });
             });
+            
             services.AddScoped<IPeople, PeopleRepository>();
             services.AddScoped<IMass, MassRepository>();
         }

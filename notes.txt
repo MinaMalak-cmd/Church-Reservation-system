@@ -80,3 +80,40 @@ To do next:
 3)CORS origin, Freeze Preflight request
 4)Deny deleting person in the day of his reservation
 5)Handle admin logging
+--------------------------------------------------
+For Mass
+{
+  "massId": 4,
+  "name": "قداس الثلاثاء",
+  "maxCapacity": 10,
+  "currentSeats": 10,
+  "date": "2021-08-23T19:58:04.941Z",
+  "duration": {
+    "ticks": 0,
+    "days": 0,
+    "hours": 0,
+    "milliseconds": 0,
+    "minutes": 0,
+    "seconds": 0,
+    "totalDays": 0,
+    "totalHours": 0,
+    "totalMilliseconds": 0,
+    "totalMinutes": 0,
+    "totalSeconds": 0
+  },
+  "people": null
+}
+or 
+{
+  "massId": 0,
+  "name": "string",
+  "maxCapacity": 0,
+  "currentSeats": 0,
+  "date": "2021-08-28T19:08:41.032Z",
+  "duration": "01:30:00"
+  
+}
+* Soln : in Swagger choose application/json-patch+json
+*In asp.net core I installed newtonsoft package
+and in startup.cs in confgiureServices:
+            services.AddControllers().AddNewtonsoftJson(); ;

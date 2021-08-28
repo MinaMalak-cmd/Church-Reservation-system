@@ -63,3 +63,6 @@ sp_procoption    @ProcName = 'CallProcAtMidNight',
 https://dba.stackexchange.com/questions/209876/how-to-find-a-sql-job-details-in-production-environment
 5)Backup and restore for a database:
 https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver15
+
+--------------------------------------------------
+Today 28.8.2021:
