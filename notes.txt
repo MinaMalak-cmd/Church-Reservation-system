@@ -143,3 +143,10 @@ totalSeconds	number($double)
 readOnly: true
 --------------------------------------------------
 *you have to send id in update request of People or Mass
+---------------------------------------------------------
+
+What's next:
+1)In People Controller: A)Test Post method
+B)Finish update method & test it
+https://www.thereformedprogrammer.net/updating-many-to-many-relationships-in-entity-framework-core/
+2)In Mass Controller A)Test all functions after for ex you added a new person and after updating his data

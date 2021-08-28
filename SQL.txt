@@ -66,3 +66,4 @@ https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/quickst
 
 --------------------------------------------------
 Today 28.8.2021:
+	
