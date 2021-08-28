@@ -56,6 +56,9 @@ namespace coreWebAPI.Controllers
             try
             {
                 await _context.SaveChangesAsync();
+                //var OldMass = await _context.Masses.FindAsync(person.MassId);
+                //OldMass.currentSeats += 1;
+                //await _context.SaveChangesAsync();
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -79,7 +82,9 @@ namespace coreWebAPI.Controllers
         {
             _context.People.Add(person);
             await _context.SaveChangesAsync();
-
+            var Mass = await _context.Masses.FindAsync(person.MassId);
+            Mass.currentSeats -= 1;
+            await _context.SaveChangesAsync();
             return CreatedAtAction("GetPerson", new { id = person.Id }, person);
         }
 
@@ -92,6 +97,9 @@ namespace coreWebAPI.Controllers
             {
                 return NotFound();
             }
+            var Mass = await _context.Masses.FindAsync(person.MassId);
+            Mass.currentSeats += 1;
+            await _context.SaveChangesAsync();
 
             _context.People.Remove(person);
             await _context.SaveChangesAsync();
