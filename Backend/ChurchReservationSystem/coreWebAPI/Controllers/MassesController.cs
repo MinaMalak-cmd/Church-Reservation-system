@@ -77,7 +77,6 @@ namespace coreWebAPI.Controllers
         [HttpPost]
         public async Task<ActionResult<Mass>> PostMass(Mass mass)
         {
-            //mass.Duration = TimeSpan.Parse(duration);
             _context.Masses.Add(mass);
             await _context.SaveChangesAsync();
 

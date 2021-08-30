@@ -51,12 +51,19 @@ namespace coreWebAPI.Controllers
                 return BadRequest();
             }
 
+            var OldPerson = await _context.People.AsNoTracking().FirstOrDefaultAsync(p => p.Id == id);
+            var OldMass = await _context.Masses.AsNoTracking().FirstOrDefaultAsync(m => m.MassId == OldPerson.MassId);
+            var NewMass = await _context.Masses.AsNoTracking().FirstOrDefaultAsync(m => m.MassId == person.MassId);
             _context.Entry(person).State = EntityState.Modified;
 
             try
             {
+                //await _context.SaveChangesAsync();
+                OldMass.currentSeats += 1;
+                //await _context.SaveChangesAsync();
+                NewMass.currentSeats -= 1;
                 await _context.SaveChangesAsync();
-                //var OldMass = await _context.Masses.FindAsync(person.MassId);
+
                 //OldMass.currentSeats += 1;
                 //await _context.SaveChangesAsync();
             }

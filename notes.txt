@@ -146,7 +146,66 @@ readOnly: true
 ---------------------------------------------------------
 
 What's next:
-1)In People Controller: A)Test Post method
+1)In People Controller: A)Test Post method ✔
 B)Finish update method & test it
-https://www.thereformedprogrammer.net/updating-many-to-many-relationships-in-entity-framework-core/
-2)In Mass Controller A)Test all functions after for ex you added a new person and after updating his data
+2)In Mass Controller A)Test all functions after for ex you added a new person and after updating his data {No need}
+3)Stored Procedure
+--------------------------------------------------
+Include and exclude from the same controller:
+[Bind(Include = "CourseID,Title,Credits,DepartmentID")]Course course
+
+**Ideas to update multiple records with entity framework:
+using (var dbcontext = new MyModel()){
+   var matchedRecords = dbcontext.DummyTable.Where(e => e.code.Equals(entry.code) && e.isValid.Equals(true)).ToList();
+   matchedRecords.ForEach(e => e.isValid = false);
+   dbcontext.SaveChanges();
+}
+**Soln for Handling self reference loop exception:
+https://dotnetcoretutorials.com/2020/03/15/fixing-json-self-referencing-loop-exceptions/
+
+**ُError while writing in putAction the following lines:
+public async Task<IActionResult> PutPerson(int id, Person person)
+        {
+            if (id != person.Id)
+            {
+                return BadRequest();
+            }
+
+            var OldPerson = await _context.People.FindAsync(id);
+            var OldMass = await _context.Masses.FindAsync(OldPerson.MassId);
+            var NewMass = await _context.Masses.FindAsync(person.MassId);
+            _context.Entry(person).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+                OldMass.currentSeats += 1;
+                await _context.SaveChangesAsync();
+                NewMass.currentSeats -= 1;
+                await _context.SaveChangesAsync();
+
+                //OldMass.currentSeats += 1;
+                //await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!PersonExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+System.InvalidOperationException: The instance of entity type 'Person' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. 
+Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+
+Some solutions:
+https://stackoverflow.com/questions/48202403/instance-of-entity-type-cannot-be-tracked-because-another-instance-with-same-key
+
+**Current issue: no errors but changes doesn't happen
