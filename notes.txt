@@ -1,0 +1,211 @@
+*Phile demo:
+http://philo-dem.com/booking/?fbclid=IwAR35hFTORjG3D8exVIEllUjG9byQLnOhIcX8EEj1yHL5P1eRpWxXIugEXsQ
+*Tutorial:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+*Repository design pattern:
+https://www.pragimtech.com/blog/blazor/rest-api-repository-pattern/
+https://code-maze.com/net-core-web-development-part4/#:~:text=What%20is%20a%20Repository%20pattern,our%20data%20from%20the%20database.
+*Two medium articles about repository pattern:
+https://medium.com/net-core/repository-pattern-implementation-in-asp-net-core-21e01c6664d7
+https://medium.com/net-core/how-to-build-a-restful-api-with-asp-net-core-fb7dd8d3e5e3
+*About Connection Strings: 
+https://docs.microsoft.com/en-us/ef/core/miscellaneous/connection-strings
+https://blog.elmah.io/the-ultimate-guide-to-connection-strings-in-web-config/
+*Code First Approach:
+https://code-maze.com/net-core-web-api-ef-core-code-first/
+>>Search for : Guid, DataAnnotations, IQueryable, Task and multi-threading, 
+add scoped &add transient & add Singleton, interface& abstractClass
+-----------------------------------------------------------------------------
+
+
+1)Follow this tutorial
+https://www.entityframeworktutorial.net/efcore/install-entity-framework-core.aspx
+to install EF core and update DB with changes
+
+2)Follow above tutorial and create Interfaces needed, implement repository design pattern
+Some helpful links:
+https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-5.0&tabs=visual-studio
+1)Implement mass Repos and Class ✔✔
+2)Add method in MassController if MaxCapacity == no of attendees ✔✔
+3)Routing for isAdmin
+4)How to get number of currentSeats
+5)Solve post error, and test of its endpoints, as well as finish second controller
+4)StoredProcedure
+5)CORS origin, Freeze Preflight request
+
+
+---------------------------------------------------------
+*Migrations:
+Add-Migration EFCoreCodeFirstSample.Models.ReservationContext
+update-database
+--------------------------------------------------
+*After you finsih put it on github and cv, with change names of mass -> event and for DB as well
+*services.AddScoped<EfCoreStarRespository>();
+--------------------------------------------------
+In future:
+*put method has an object and id
+*Hashing for password
+*Add feature for user can reserve for multiple people
+*Handle dbconcurrency exception
+*Add data annotations, and handle update conditions
+Content-Type: application/json
+Content-Length: 126
+RequestBody:
+{
+  "id": 0,
+  "name": "string",
+  "registerationDate": "2021-06-26T14:01:52.851Z",
+  "reservationDate": "2021-06-26T14:01:52.851Z",
+  "telephoneNumber": "string",
+  "massId": 0,
+  "mass": {
+    "massId": 0,
+    "name": "string",
+    "maxCapacity": 0,
+    "currentSeats": 0,
+    "date": "2021-06-26T14:01:52.851Z",
+    "duration": {},
+    "people": [
+      null
+    ]
+  }
+}
+Accept header is necessary too
+--------------------------------------------------
+
+
+To do next:
+1)Update current seats by adding or subtracting
+2)StoredProcedure
+3)CORS origin, Freeze Preflight request
+4)Deny deleting person in the day of his reservation
+5)Handle admin logging
+--------------------------------------------------
+For Mass
+{
+  "massId": 4,
+  "name": "قداس الثلاثاء",
+  "maxCapacity": 10,
+  "currentSeats": 10,
+  "date": "2021-08-23T19:58:04.941Z",
+  "duration": {
+    "ticks": 0,
+    "days": 0,
+    "hours": 0,
+    "milliseconds": 0,
+    "minutes": 0,
+    "seconds": 0,
+    "totalDays": 0,
+    "totalHours": 0,
+    "totalMilliseconds": 0,
+    "totalMinutes": 0,
+    "totalSeconds": 0
+  },
+  "people": null
+}
+or 
+{
+  "massId": 0,
+  "name": "string",
+  "maxCapacity": 0,
+  "currentSeats": 0,
+  "date": "2021-08-28T19:08:41.032Z",
+  "duration": "01:30:00"
+  
+}
+* Soln : in Swagger choose application/json-patch+json
+*In asp.net core I installed newtonsoft package
+and in startup.cs in confgiureServices:
+            services.AddControllers().AddNewtonsoftJson(); ;
+--------------------------------------------------
+Schema for TimeSpan:
+ticks	integer($int64)
+readOnly: true
+days	integer($int32)
+readOnly: true
+hours	integer($int32)
+readOnly: true
+milliseconds	integer($int32)
+readOnly: true
+minutes	integer($int32)
+readOnly: true
+seconds	integer($int32)
+readOnly: true
+totalDays	number($double)
+readOnly: true
+totalHours	number($double)
+readOnly: true
+totalMilliseconds	number($double)
+readOnly: true
+totalMinutes	number($double)
+readOnly: true
+totalSeconds	number($double)
+readOnly: true
+--------------------------------------------------
+*you have to send id in update request of People or Mass
+---------------------------------------------------------
+
+What's next:
+1)In People Controller: A)Test Post method ✔
+B)Finish update method & test it ✔
+2)In Mass Controller A)Test all functions after for ex you added a new person and after updating his data {No need}
+3)Stored Procedure
+--------------------------------------------------
+Include and exclude from the same controller:
+[Bind(Include = "CourseID,Title,Credits,DepartmentID")]Course course
+
+**Ideas to update multiple records with entity framework:
+using (var dbcontext = new MyModel()){
+   var matchedRecords = dbcontext.DummyTable.Where(e => e.code.Equals(entry.code) && e.isValid.Equals(true)).ToList();
+   matchedRecords.ForEach(e => e.isValid = false);
+   dbcontext.SaveChanges();
+}
+**Soln for Handling self reference loop exception:
+https://dotnetcoretutorials.com/2020/03/15/fixing-json-self-referencing-loop-exceptions/
+
+**ُError while writing in putAction the following lines:
+public async Task<IActionResult> PutPerson(int id, Person person)
+        {
+            if (id != person.Id)
+            {
+                return BadRequest();
+            }
+
+            var OldPerson = await _context.People.FindAsync(id);
+            var OldMass = await _context.Masses.FindAsync(OldPerson.MassId);
+            var NewMass = await _context.Masses.FindAsync(person.MassId);
+            _context.Entry(person).State = EntityState.Modified;
+
+            try
+            {
+                await _context.SaveChangesAsync();
+                OldMass.currentSeats += 1;
+                await _context.SaveChangesAsync();
+                NewMass.currentSeats -= 1;
+                await _context.SaveChangesAsync();
+
+                //OldMass.currentSeats += 1;
+                //await _context.SaveChangesAsync();
+            }
+            catch (DbUpdateConcurrencyException)
+            {
+                if (!PersonExists(id))
+                {
+                    return NotFound();
+                }
+                else
+                {
+                    throw;
+                }
+            }
+
+            return NoContent();
+        }
+
+System.InvalidOperationException: The instance of entity type 'Person' cannot be tracked because another instance with the same key value for {'Id'} is already being tracked. When attaching existing entities, ensure that only one entity instance with a given key value is attached. 
+Consider using 'DbContextOptionsBuilder.EnableSensitiveDataLogging' to see the conflicting key values.
+
+Some solutions:
+https://stackoverflow.com/questions/48202403/instance-of-entity-type-cannot-be-tracked-because-another-instance-with-same-key
+
+**Current issue: no errors but changes doesn't happen

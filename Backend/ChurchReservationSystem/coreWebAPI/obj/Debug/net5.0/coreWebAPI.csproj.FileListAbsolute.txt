@@ -1,0 +1,471 @@
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.Development.json
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.json
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.exe
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.deps.json
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.json
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.dev.json
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ref\coreWebAPI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfoInputs.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfo.cs
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CoreCompileInputs.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.Manifest.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.xml
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\scopedcss\bundle\coreWebAPI.styles.css
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.RazorTargetAssemblyInfo.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CopyComplete
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\ref\coreWebAPI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.genruntimeconfig.cache
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Humanizer.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\Church website\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csprojAssemblyReference.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.json
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.exe
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.deps.json
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.json
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.dev.json
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ref\coreWebAPI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.AssemblyReference.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfoInputs.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfo.cs
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CoreCompileInputs.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.Manifest.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.xml
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\scopedcss\bundle\coreWebAPI.styles.css
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.RazorTargetAssemblyInfo.cache
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CopyComplete
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\ref\coreWebAPI.dll
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.pdb
+E:\ChurchProject\Backend\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.genruntimeconfig.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.Development.json
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\appsettings.json
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.exe
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.deps.json
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.json
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.runtimeconfig.dev.json
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ref\coreWebAPI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\coreWebAPI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Humanizer.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.AssemblyReference.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfoInputs.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.AssemblyInfo.cs
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CoreCompileInputs.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.Manifest.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\staticwebassets\coreWebAPI.StaticWebAssets.xml
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\scopedcss\bundle\coreWebAPI.styles.css
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.RazorTargetAssemblyInfo.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.csproj.CopyComplete
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\ref\coreWebAPI.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.pdb
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\obj\Debug\net5.0\coreWebAPI.genruntimeconfig.cache
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Church-Reservation-system\Backend\ChurchReservationSystem\coreWebAPI\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
