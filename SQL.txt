@@ -65,5 +65,17 @@ https://dba.stackexchange.com/questions/209876/how-to-find-a-sql-job-details-in-
 https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver15
 
 --------------------------------------------------
-Today 28.8.2021:
+Today 2.9.2021:
+
+---Some ideas for SP:
+1)https://stackoverflow.com/questions/4364913/delete-rows-with-date-older-than-30-days-with-sql-server-query
+
+The stored procedure 
+CREATE PROCEDURE DeleteOldReservations
+ AS
+   DELETE FROM People  WHERE reservationDate  < DATEADD(day, -1, GETDATE())
+  GO
+  Exec DeleteOldReservations
+
+
 	

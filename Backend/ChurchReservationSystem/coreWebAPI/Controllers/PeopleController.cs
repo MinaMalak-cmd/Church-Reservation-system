@@ -60,12 +60,14 @@ namespace coreWebAPI.Controllers
             {
                 //await _context.SaveChangesAsync();
                 OldMass.currentSeats += 1;
-                //await _context.SaveChangesAsync();
+                _context.Entry(OldMass).State = EntityState.Modified;
+
                 NewMass.currentSeats -= 1;
+                _context.Entry(NewMass).State = EntityState.Modified;
+
                 await _context.SaveChangesAsync();
 
-                //OldMass.currentSeats += 1;
-                //await _context.SaveChangesAsync();
+               
             }
             catch (DbUpdateConcurrencyException)
             {
@@ -91,6 +93,8 @@ namespace coreWebAPI.Controllers
             await _context.SaveChangesAsync();
             var Mass = await _context.Masses.FindAsync(person.MassId);
             Mass.currentSeats -= 1;
+           //_context.Entry(Mass).State = EntityState.Modified;
+
             await _context.SaveChangesAsync();
             return CreatedAtAction("GetPerson", new { id = person.Id }, person);
         }

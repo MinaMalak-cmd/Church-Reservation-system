@@ -147,7 +147,7 @@ readOnly: true
 
 What's next:
 1)In People Controller: A)Test Post method ✔
-B)Finish update method & test it
+B)Finish update method & test it ✔
 2)In Mass Controller A)Test all functions after for ex you added a new person and after updating his data {No need}
 3)Stored Procedure
 --------------------------------------------------
