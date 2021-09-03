@@ -1,0 +1,3 @@
+Integration .net with React:
+1)https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-react-app-with-net-core-backend-59d4fc5e3041
+2)https://medium.com/bb-tutorials-and-thoughts/how-to-run-react-with-net-web-api-on-minikube-fae53fb352ce

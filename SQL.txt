@@ -22,7 +22,8 @@ BEGIN
       
 END  
 GO 
-3)How to call stored procedure automatically:
+3)How to call stored procedure automatically&Jobs:
+https://www.c-sharpcorner.com/article/create-a-job-in-sql-server/
 https://stackoverflow.com/questions/12158158/how-to-automatically-run-a-stored-procedure-on-scheduler-basis/12158256
 https://social.msdn.microsoft.com/Forums/sqlserver/en-US/b5c62f7c-cf85-4a2f-9e8c-a2194d745356/how-to-run-a-query-at-12am-and-12pm?forum=sqlreportingservices
 --------------------------------------------------

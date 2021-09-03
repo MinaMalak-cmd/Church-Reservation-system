@@ -1,0 +1,5 @@
+1)How to refactor a code 
+2)Anthor endpoints in Controller
+3)Authoriztion through front end
+4)Start a job automatically
+5)Why what works in post & delete not worked in update
