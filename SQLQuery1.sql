@@ -20,3 +20,6 @@ SELECT TOP (1000) [MassId]
    DELETE FROM People  WHERE reservationDate  < DATEADD(day, -1, GETDATE())
   GO
   Exec DeleteOldReservations
+
+  DROP PROCEDURE DeleteOldReservations;  
+GO  

@@ -1,27 +1,3 @@
-DROP PROCEDURE IF EXISTS p_customer_all;
-GO
-CREATE PROCEDURE p_customer_all
--- procedure returns all rows from the customer table
-AS BEGIN
-  SELECT *
-  FROM customer;
-END;
-1)Where to save your stored procedures:
-https://www.c-sharpcorner.com/article/how-to-create-a-stored-procedure-in-sql-server-management-studio/
-2)Delete Stored procedure
-CREATE PROCEDURE stpDeleteMemberByMemberID   
-    @MemberID int  
-AS  
-BEGIN  
-    -- SET NOCOUNT ON added to prevent extra result sets from  
-    -- interfering with SELECT statements.  
-    SET NOCOUNT ON;  
-  
-    Delete from tblMembers  
-    where MemberId = @MemberID  
-      
-END  
-GO 
 3)How to call stored procedure automatically&Jobs:
 https://www.c-sharpcorner.com/article/create-a-job-in-sql-server/
 https://stackoverflow.com/questions/12158158/how-to-automatically-run-a-stored-procedure-on-scheduler-basis/12158256
@@ -66,7 +42,6 @@ https://dba.stackexchange.com/questions/209876/how-to-find-a-sql-job-details-in-
 https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver15
 
 --------------------------------------------------
-Today 2.9.2021:
 
 ---Some ideas for SP:
 1)https://stackoverflow.com/questions/4364913/delete-rows-with-date-older-than-30-days-with-sql-server-query
@@ -80,3 +55,10 @@ CREATE PROCEDURE DeleteOldReservations
 
 
 	
+--------------------------------------------------
+For new Job:
+1)R+click on SQL Server Agent
+2)yes -> ok
+3)Expand it -> right click on jobs -> Add new job
+4)Add configuration of it -> ok -> R+click on your job
+5)then click start at step..
