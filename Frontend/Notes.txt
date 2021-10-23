@@ -11,3 +11,12 @@ Use:
 1) Material UI
 2) Language Context
 3) Dashboard & validation
+4) Admin & authentication
+-----------------------------------------
+*To create React app :
+npx create-react-app file-name
+cd file-name
+npm start
+*failed to get data :
+1)debug from fiddler or postman
+2)check from application/json
