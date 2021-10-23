@@ -1,0 +1,65 @@
+3)How to call stored procedure automatically&Jobs:
+https://www.c-sharpcorner.com/article/create-a-job-in-sql-server/
+https://stackoverflow.com/questions/12158158/how-to-automatically-run-a-stored-procedure-on-scheduler-basis/12158256
+https://social.msdn.microsoft.com/Forums/sqlserver/en-US/b5c62f7c-cf85-4a2f-9e8c-a2194d745356/how-to-run-a-query-at-12am-and-12pm?forum=sqlreportingservices
+--------------------------------------------------
+
+sp_v1:
+CREATE PROCEDURE DeleteWeeklyReservation 
+  AS
+  BEGIN
+
+ 
+CREATE PROCEDURE CallProcAtMidNight
+ AS
+BEGIN  
+    SET NOCOUNT ON;
+    --  For executing the stored procedure at 12:00 P.M
+    declare @delayTime nvarchar(50)
+    set @delayTime = '24:00' -- 00:00
+
+    while 1 = 1
+    begin
+        waitfor time @delayTime 
+        begin
+            --Name for the stored proceduce you want to call on regular bases
+            execute [DatabaseName].[dbo].[StoredProcedureName];
+           
+        end
+    end
+END
+
+-- Sets stored procedure for automatic execution.
+sp_procoption    @ProcName = 'CallProcAtMidNight',
+                @OptionName = 'startup',
+                @OptionValue = 'on'
+
+--> Final Answer using either two ways: 1)Jobs      2)sp_procoption
+
+4)How to check job  on production?
+https://dba.stackexchange.com/questions/209876/how-to-find-a-sql-job-details-in-production-environment
+5)Backup and restore for a database:
+https://docs.microsoft.com/en-us/sql/relational-databases/backup-restore/quickstart-backup-restore-database?view=sql-server-ver15
+
+--------------------------------------------------
+
+---Some ideas for SP:
+1)https://stackoverflow.com/questions/4364913/delete-rows-with-date-older-than-30-days-with-sql-server-query
+
+The stored procedure 
+CREATE PROCEDURE DeleteOldReservations
+ AS
+   DELETE FROM People  WHERE reservationDate  < DATEADD(day, -1, GETDATE())
+  GO
+  Exec DeleteOldReservations
+
+
+	
+--------------------------------------------------
+For new Job:
+1)R+click on SQL Server Agent
+2)yes -> ok
+3)Expand it -> right click on jobs -> Add new job
+4)Add configuration of it -> ok -> R+click on your job
+5)then click start at step..
+git remote add origin https://github.com/MinaMalak-cmd/Church-Reservation-system.git
