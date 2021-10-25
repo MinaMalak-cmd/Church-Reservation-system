@@ -20,3 +20,21 @@ npm start
 *failed to get data :
 1)debug from fiddler or postman
 2)check from application/json
+http://localhost:62962/api/Masses
+ content-type: application/json; charset=utf-8 
+How you solved in Configure in Startup.cs
+app.UseRouting();
+//after
+            app.UseCors();
+            app.UseCors(
+            options => options.WithOrigins("http://localhost:3000", "http://localhost:3000")
+               .AllowAnyHeader().AllowAnyMethod().AllowCredentials()
+            );
+//before
+            app.UseAuthorization();
+
+To do next :
+1)4 endpoints of 2 controllers
+2)dashboard
+3)refactor design using react material
+4)refactor code

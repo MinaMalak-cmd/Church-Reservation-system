@@ -1,11 +1,15 @@
-import './App.css';
-
-function App() {
+import React, { useState, useEffect, useCallback } from "react";
+import "./App.css";
+import Login from "./Components/Login/Login";
+import Reservation from "./Components/Reservation/Reservation";
+const App = () => {
   return (
-    <div className="App">
-     hii
+    <div className="">
+      hii
+      {/* <Login /> */}
+      <Reservation />
     </div>
   );
-}
+};
 
 export default App;
