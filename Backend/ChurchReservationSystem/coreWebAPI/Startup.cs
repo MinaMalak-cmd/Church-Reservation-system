@@ -36,7 +36,7 @@ namespace coreWebAPI
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "coreWebAPI", Version = "v1" });
             });
-            
+            //services.AddControllers().AddJsonOptions()
             services.AddScoped<IPeople, PeopleRepository>();
             services.AddScoped<IMass, MassRepository>();
         }
@@ -52,7 +52,11 @@ namespace coreWebAPI
             }
 
             app.UseRouting();
-
+            app.UseCors();
+            app.UseCors(
+            options => options.WithOrigins("http://localhost:3000", "http://localhost:3000")
+               .AllowAnyHeader().AllowAnyMethod().AllowCredentials()
+            );
             app.UseAuthorization();
 
             app.UseEndpoints(endpoints =>
