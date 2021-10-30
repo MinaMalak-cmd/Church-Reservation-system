@@ -26,9 +26,15 @@ How you solved in Configure in Startup.cs
 app.UseRouting();
 //after
             app.UseCors();
+-----
             app.UseCors(
             options => options.WithOrigins("http://localhost:3000", "http://localhost:3000")
                .AllowAnyHeader().AllowAnyMethod().AllowCredentials()
+            );
+------ 
+OR 
+ options => options.AllowAnyOrigin()
+               .AllowAnyHeader().AllowAnyMethod()
             );
 //before
             app.UseAuthorization();
@@ -38,3 +44,8 @@ To do next :
 2)dashboard
 3)refactor design using react material
 4)refactor code
+
+Docs : https://mui.com/getting-started/usage/
+https://github.com/mui-org/material-ui/tree/e0cdcd130db60d252c4382570844ea7278649a08
+Form validation : 
+https://www.npmjs.com/package/react-material-ui-form-validator

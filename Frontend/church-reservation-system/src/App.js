@@ -5,11 +5,10 @@ import Reservation from "./Components/Reservation/Reservation";
 const App = () => {
   return (
     <div className="">
-      hii
-      {/* <Login /> */}
-      <Reservation />
+      
+      <Login />
+      {/* <Reservation /> */}
     </div>
   );
 };
-
 export default App;
