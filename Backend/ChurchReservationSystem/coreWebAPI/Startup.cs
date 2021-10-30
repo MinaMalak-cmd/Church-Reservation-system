@@ -54,8 +54,8 @@ namespace coreWebAPI
             app.UseRouting();
             app.UseCors();
             app.UseCors(
-            options => options.WithOrigins("http://localhost:3000", "http://localhost:3000")
-               .AllowAnyHeader().AllowAnyMethod().AllowCredentials()
+            options => options.AllowAnyOrigin()
+               .AllowAnyHeader().AllowAnyMethod()
             );
             app.UseAuthorization();
 
