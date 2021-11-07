@@ -6,23 +6,27 @@ import Login from "./Components/Login/Login";
 import Reservation from "./Components/Reservation/Reservation";
 import {
   Route,
-  Link,
   BrowserRouter as Router,
-  Switch,
   Routes,
 } from "react-router-dom";
+import EventsList from "./Components/Events/EventsList";
 const routes = (
-    <Router>
-      <div>
-        <Route exact path="/" component={Login} />
-        <Route path="/reservation" component={Reservation} />
-      </div>
-    </Router>
+  <Router>
+    <div>
+      <Route exact path="/" component={Login} />
+      <Route path="/reservation" component={Reservation} />
+    </div>
+  </Router>
 );
 ReactDOM.render(
   <Router>
-    <App />
+    <Routes>
+      <Route exact path="/" element={<Login />} />
+      <Route path="/reservation" element={<Reservation />} />
+      {/*
+      needed to send prop to it
+      <Route path="/e" element={<EventsList />} /> */}
+    </Routes>
   </Router>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
-// ReactDOM.render(routes, document.getElementById("root"));
