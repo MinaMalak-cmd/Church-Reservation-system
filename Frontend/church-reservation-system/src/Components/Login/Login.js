@@ -1,40 +1,51 @@
 import React, { useState } from "react";
 import "./Login.css";
 import { Button, Form, Row, Col, Container, Alert } from "react-bootstrap";
+import { useNavigate,Route,Router,Navigate } from "react-router-dom";
+import { render } from "@testing-library/react";
 
-const regularExpression = RegExp(/^[a-zA-Z0-9]+@[a-zA-Z0-9]+\.[A-Za-z]+$/);
 const Login = (props) => {
   const [data, setData] = useState({ name: "", phone: "" });
   const [errors, setErrors] = useState({ name: "", phone: "" });
   const [status, setStatus] = useState({
     nameValid: false,
     phoneValid: false,
+    formValid: false,
   });
+  const navigate = useNavigate();
   const submitHandler = (e) => {
     e.preventDefault();
-    setStatus({ nameValid: false, phoneValid: false });
+    setStatus({ nameValid: false, phoneValid: false, formValid: false });
     setErrors({ name: "", phone: "" });
     validateField("name", e.target[0].value);
     validateField("phone", e.target[1].value);
-    let tempObj = { name: e.target[0].value, phone: e.target[1].value };
-    setData(tempObj);
-    props.onSaveData(tempObj);
-    e.target[0].value = "";
-    e.target[1].value = "";
+    if (status.formValid) {
+      let tempObj = { name: e.target[0].value, phone: e.target[1].value };
+      setData(tempObj);
+      props.onSaveData(tempObj);
+      console.log("data sent");
+      e.target[0].value = "";
+      e.target[1].value = "";
+      navigate("/reservation");
+    } else {
+      e.target[0].value = e.target[0].value;
+      e.target[1].value = e.target[1].value;
+      return;
+    }
   };
   const validateField = (fieldName, value) => {
     switch (fieldName) {
       case "name":
         if (value == "" || value.length < 4 || value.length > 100) {
           setStatus((prev) => {
-            return { ...prev, nameValid: false };
+            return { ...prev, nameValid: false, formValid: false };
           });
           setErrors((prev) => {
             return { ...prev, name: "من فضلك ادخل اسمًا صحيحًا" };
           });
         } else {
           setStatus((prev) => {
-            return { ...prev, nameValid: true };
+            return { ...prev, nameValid: true, formValid: true };
           });
           setErrors((prev) => {
             return { ...prev, name: "" };
@@ -45,14 +56,14 @@ const Login = (props) => {
         let phoneValid = value.match(/^[0][0-9]{10}/);
         if (!phoneValid || value.length > 11) {
           setStatus((prev) => {
-            return { ...prev, phoneValid: false };
+            return { ...prev, phoneValid: false, formValid: false };
           });
           setErrors((prev) => {
             return { ...prev, phone: "من فضلك ادخل رقمًا صحيحًا" };
           });
         } else {
           setStatus((prev) => {
-            return { ...prev, phoneValid: true };
+            return { ...prev, phoneValid: true, formValid: true };
           });
           setErrors((prev) => {
             return { ...prev, phone: "" };
