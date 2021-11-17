@@ -1,6 +1,9 @@
+element {
+  --bs-body-bg : "#e9ecef";
+}
 body {
-  background: linear-gradient(to left, white 0%, lightblue 100%);
-  background-origin: content-box;
-  background-size: contain;
-  height: 100%;
+ margin-bottom: 2rem !important;
+ /* background-color: var(--bs-body-bg); */
+ background-color: #e9ecef !important;
+ border-radius: 0.3rem;
 }

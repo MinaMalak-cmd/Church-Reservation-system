@@ -77,7 +77,7 @@ const Login = (props) => {
     <Container className="mt-5 form-wrapper">
       <Row className="d-flex justify-content-center">
         <Col sm={6} className="">
-          <Alert variant="success">
+          <Alert variant="">
             <Alert.Heading className="text-center mb-4">
               Saint Mark Church
             </Alert.Heading>
