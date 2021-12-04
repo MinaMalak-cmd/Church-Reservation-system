@@ -9,14 +9,6 @@ const Event = (props) => {
       <p>{props.duration}</p>
       <span className="d-block">{props.maxCapacity}</span>
       <span className="d-block">{props.currentSeats}</span>
-      {/* <event
-        key={event.id}
-        name={event.name}
-        maxCapacity={event.maxCapacity}
-        currentSeats={event.currentSeats}
-        date={event.date}
-        duration={event.duration}
-      /> */}
     </li>
   );
 };

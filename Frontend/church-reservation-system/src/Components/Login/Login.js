@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import "./Login.css";
 import { Button, Form, Row, Col, Container, Alert } from "react-bootstrap";
-import { useNavigate,Route,Router,Navigate } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 const Login = (props) => {
   const [data, setData] = useState({ name: "", phone: "" });
@@ -21,8 +21,6 @@ const Login = (props) => {
     if (status.formValid) {
       let tempObj = { name: e.target[0].value, phone: e.target[1].value };
       setData(tempObj);
-      // props.onSaveData(tempObj);
-      console.log("data sent");
       e.target[0].value = "";
       e.target[1].value = "";
       navigate("/reservation");
