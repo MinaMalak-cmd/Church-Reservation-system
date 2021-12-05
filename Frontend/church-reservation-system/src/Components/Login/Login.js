@@ -2,7 +2,8 @@ import React, { useState } from "react";
 import "./Login.css";
 import { Button, Form, Row, Col, Container, Alert } from "react-bootstrap";
 import { useNavigate } from "react-router-dom";
-
+import ReactDOM from 'react-dom';
+import App from "../../App"
 const Login = (props) => {
   const [data, setData] = useState({ name: "", phone: "" });
   const [errors, setErrors] = useState({ name: "", phone: "" });
@@ -21,9 +22,16 @@ const Login = (props) => {
     if (status.formValid) {
       let tempObj = { name: e.target[0].value, phone: e.target[1].value };
       setData(tempObj);
+      if(tempObj.name==="admin123" && tempObj.phone==="01234556789"){
+        localStorage.clear()
+        localStorage.setItem("role","admin")        
+        localStorage.setItem("data",JSON.stringify(tempObj))
+        //ReactDOM.render(<App />);
+        
+      }
       e.target[0].value = "";
       e.target[1].value = "";
-      navigate("/reservation");
+      // navigate("/reservation");
     } else {
       e.target[0].value = e.target[0].value;
       e.target[1].value = e.target[1].value;

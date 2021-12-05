@@ -1,51 +1,22 @@
-Integration .net with React:
-1)https://medium.com/bb-tutorials-and-thoughts/how-to-develop-and-build-react-app-with-net-core-backend-59d4fc5e3041
-2)https://medium.com/bb-tutorials-and-thoughts/how-to-run-react-with-net-web-api-on-minikube-fae53fb352ce
-Github account:
-Email: engmina15@yahoo.com
-Password: mlnAS19027H!?
-Token: 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
+*Routing is done correctly but handle 
+sending data into reservation & Authentication ->Continue 
+Today 4/12/2021 : 
+*I will authenticate using useContext or Redux
+*First let Provider be index comp or App comp and 
+put your logic inside app, and consumer will be 
+all the other components such as dashboard
+*you can try ,in Login after validating form, one of 
+two options 
+1)After checking credentials you can use 
+ReactDOM.render app
+2)Or reactDOM.render required components with props 
+you want 
 
-
-Use:
-1) Material UI
-2) Language Context
-3) Dashboard & validation
-4) Admin & authentication
------------------------------------------
-*To create React app :
-npx create-react-app file-name
-cd file-name
-npm start
-*failed to get data :
-1)debug from fiddler or postman
-2)check from application/json
-http://localhost:62962/api/Masses
- content-type: application/json; charset=utf-8 
-How you solved in Configure in Startup.cs
-app.UseRouting();
-//after
-            app.UseCors();
------
-            app.UseCors(
-            options => options.WithOrigins("http://localhost:3000", "http://localhost:3000")
-               .AllowAnyHeader().AllowAnyMethod().AllowCredentials()
-            );
------- 
-OR 
- options => options.AllowAnyOrigin()
-               .AllowAnyHeader().AllowAnyMethod()
-            );
-//before
-            app.UseAuthorization();
-
-To do next :
-1)4 endpoints of 2 controllers
-2)dashboard
-3)refactor design using react material
-4)refactor code
-
-Docs : https://mui.com/getting-started/usage/
-https://github.com/mui-org/material-ui/tree/e0cdcd130db60d252c4382570844ea7278649a08
-Form validation : 
-https://www.npmjs.com/package/react-material-ui-form-validator
+----------------
+Today 5/12/2021 :
+In Login.js line 29 try to output admin component 
+directly anyway you have to handle the private route
+and understand error of 
+TargetContainer is not a dom element
+*Best use of useContext not your approach
+	
